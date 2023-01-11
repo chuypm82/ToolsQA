@@ -1,3 +1,2 @@
 # ToolsQA
-ToolsQA Repository.
-This is one change.
+ToolsQA Repository for this tutorial
